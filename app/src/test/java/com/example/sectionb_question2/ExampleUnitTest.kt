@@ -1,4 +1,4 @@
-package com.example.navigation_fragments
+package com.example.sectionb_question2
 
 import org.junit.Test
 
